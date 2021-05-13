@@ -1,8 +1,8 @@
 # Pomodoro 
 
 ## Este proyecto esta realizado con React 
-
-En este proyecto se uso las librerias 
+Proyecto de reloj pomodoro para administrar tus tareas.
+En este proyecto se uso las librerias :
 
 Sweet alert y
 https://sweetalert.js.org/
