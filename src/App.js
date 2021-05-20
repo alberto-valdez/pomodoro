@@ -1,24 +1,30 @@
 import logo from './logo.svg';
 import './App.css';
+import { Lista } from './components/lista';
+import { Timer } from './components/timer';
+import { PomodoroProvider } from './context/pomodoroContext';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <PomodoroProvider>
+
+    
+    <div className='container'>
+      <div className='titulo'>
+      <h1>Pomodoro</h1>
+      </div>
+
+      <div className='split-container'>
+        <div>
+        <Lista/>
+        </div>
+        <div>
+        <Timer/>
+        </div>
+      </div>
+      
     </div>
+    </PomodoroProvider>
   );
 }
 
