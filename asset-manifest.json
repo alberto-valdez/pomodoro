@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pomodoro/static/css/main.44b7041d.chunk.css",
+    "main.js": "/pomodoro/static/js/main.2c2b4207.chunk.js",
+    "main.js.map": "/pomodoro/static/js/main.2c2b4207.chunk.js.map",
+    "runtime-main.js": "/pomodoro/static/js/runtime-main.230eaebb.js",
+    "runtime-main.js.map": "/pomodoro/static/js/runtime-main.230eaebb.js.map",
+    "static/js/2.917467fe.chunk.js": "/pomodoro/static/js/2.917467fe.chunk.js",
+    "static/js/2.917467fe.chunk.js.map": "/pomodoro/static/js/2.917467fe.chunk.js.map",
+    "static/js/3.1f0ae586.chunk.js": "/pomodoro/static/js/3.1f0ae586.chunk.js",
+    "static/js/3.1f0ae586.chunk.js.map": "/pomodoro/static/js/3.1f0ae586.chunk.js.map",
+    "index.html": "/pomodoro/index.html",
+    "static/css/main.44b7041d.chunk.css.map": "/pomodoro/static/css/main.44b7041d.chunk.css.map",
+    "static/js/2.917467fe.chunk.js.LICENSE.txt": "/pomodoro/static/js/2.917467fe.chunk.js.LICENSE.txt",
+    "static/media/alarm.d48422c4.mp3": "/pomodoro/static/media/alarm.d48422c4.mp3",
+    "static/media/click.aecc5cce.mp3": "/pomodoro/static/media/click.aecc5cce.mp3",
+    "static/media/logo.6ce24c58.svg": "/pomodoro/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.230eaebb.js",
+    "static/js/2.917467fe.chunk.js",
+    "static/css/main.44b7041d.chunk.css",
+    "static/js/main.2c2b4207.chunk.js"
+  ]
+}
